@@ -25,3 +25,8 @@ Your CV will be available at the address shown in the terminal (usually `http://
 ## 📄 About
 
 This project renders a personal CV as a static website. Feel free to fork it, customize it, or use it as a template for your own.
+
+## Licencing
+
+This is a sandbox/demo project. No support provided.
+Licensed under the MIT License – see LICENSE for details.
